@@ -11,7 +11,7 @@
 </td>
 <td align="left" width="50%" valign="top">
 
-<div style="font-size: 0.95em;">
+<div style="font-size: 1.0em;">
 
 ```python
 class Matheus:
