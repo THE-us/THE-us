@@ -19,16 +19,12 @@ class Matheus:
         self.name = "Matheus Eduardo Campos Soares"
         self.role = "Computer Science Student"
         self.university = "PUC Minas"
-        self.interests = ["Full-stack Dev", "Data Analysis",
-                          "Security"]
-        self.languages = {"Portuguese": "Native",
-                          "English": "Advanced"}
-        self.currently_learning = ["Flutter", "Data Science",
-                                   "New Technologies"]
+        self.interests = ["Full-stack Dev", "Data Analysis","Security"]
+        self.languages = {"Portuguese": "Native","English": "Advanced"}
+        self.currently_learning = ["Flutter", "Data Science"]
     
     def say_hi(self):
-        print("Thanks for dropping by!
-               Let's build something amazing together!")
+        print("Thanks for dropping by!")
 
 if __name__ == "__main__":
     me = Matheus()
