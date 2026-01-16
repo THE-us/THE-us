@@ -7,11 +7,11 @@
 <table>
 <tr>
 <td align="center" width="50%" valign="middle">
-  <img src="https://media1.tenor.com/m/y9t1VRcQkI8AAAAC/heatblast-ben10.gif" width="270" alt="Heatblast"/>
+  <img src="https://media1.tenor.com/m/y9t1VRcQkI8AAAAC/heatblast-ben10.gif" width="240" alt="Heatblast"/>
 </td>
 <td align="left" width="50%" valign="top">
 
-<div style="font-size: 0.8em;">
+<div style="font-size: 0.75em;">
 
 ```python
 class Matheus:
