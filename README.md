@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td align="center" width="50%" valign="middle">
-  <img src="https://media1.tenor.com/m/y9t1VRcQkI8AAAAC/heatblast-ben10.gif" width="300" alt="Heatblast"/>
+  <img src="https://media1.tenor.com/m/y9t1VRcQkI8AAAAC/heatblast-ben10.gif" width="270" alt="Heatblast"/>
 </td>
 <td align="left" width="50%" valign="top">
 
