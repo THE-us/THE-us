@@ -1,35 +1,41 @@
-<div align="center">
-  <img src="https://media1.tenor.com/m/y9t1VRcQkI8AAAAC/heatblast-ben10.gif" width="150" alt="Heatblast"/>
-  <br/>
-</div>
-
 <h3 align="center">🎓 CS Student @ PUC Minas | 💻 Exploring Tech | 🌱 Open to Opportunities</h3>
 
 ---
 
 ### 👨‍💻 About Me
-```java
-public class Matheus {
-    private String name = "Matheus Eduardo Campos Soares";
-    private String role = "Computer Science Student";
-    private String university = "PUC Minas";
-    private String[] interests = {"Full-stack Dev", "Data Analysis", "Security"};
-    private Map<String, String> languages = Map.of(
-        "Portuguese", "Native",
-        "English", "Advanced"
-    );
-    private String[] currentlyLearning = {"Flutter", "Data Science", "New Technologies"};
+
+<table>
+<tr>
+<td align="center" width="50%" valign="middle">
+  <img src="https://media1.tenor.com/m/y9t1VRcQkI8AAAAC/heatblast-ben10.gif" width="270" alt="Heatblast"/>
+</td>
+<td align="left" width="50%" valign="top">
+
+<div style="font-size: 0.8em;">
+
+```python
+class Matheus:
+    def __init__(self):
+        self.name = "Matheus Eduardo Campos Soares"
+        self.role = "Computer Science Student"
+        self.university = "PUC Minas"
+        self.interests = ["Full-stack Dev", "Data Analysis", "Security"]
+        self.languages = {"Portuguese": "Native", "English": "Advanced"}
+        self.currently_learning = ["Flutter", "Data Science", "New Technologies"]
     
-    public void sayHi() {
-        System.out.println("Thanks for dropping by! Let's build something amazing together!");
-    }
-    
-    public static void main(String[] args) {
-        Matheus me = new Matheus();
-        me.sayHi();
-    }
-}
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+if __name__ == "__main__":
+    me = Matheus()
+    me.say_hi()
 ```
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ### 🚀 Tech Stack
 
@@ -57,17 +63,17 @@ public class Matheus {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=THE-us&show_icons=true&count_private=true&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117&ring_color=FF6B35" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-us&layout=compact&hide_border=true&title_color=FF6B35&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=THE-us&show_icons=true&count_private=true&hide_border=true&title_color=64cc4f&icon_color=64cc4f&text_color=fbfbfd&bg_color=222222&ring_color=328336" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-us&layout=compact&hide_border=true&title_color=64cc4f&text_color=fbfbfd&bg_color=222222" />
 
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=THE-us&theme=radical&hide_border=true&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=THE-us&theme=dark&hide_border=true&background=222222&stroke=328336&ring=64cc4f&fire=64cc4f&currStreakLabel=b2e05b&sideLabels=fbfbfd&currStreakNum=fbfbfd&dates=fbfbfd&sideNums=64cc4f" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THE-us&theme=react-dark&hide_border=true&area=true&color=FF6B35&point=FF6B35&line=FF6B35" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THE-us&theme=react-dark&hide_border=true&bg_color=222222&color=64cc4f&point=b2e05b&line=328336&area=true&area_color=328336" alt="Contribution Graph"/>
 </div>
 
 ### 🎯 What I'm Up To
@@ -82,7 +88,7 @@ public class Matheus {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/the-us)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-us)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuseducs@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THE-us)
 
