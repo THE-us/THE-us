@@ -72,10 +72,6 @@ if __name__ == "__main__":
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=THE-us&theme=dark&hide_border=true&background=222222&stroke=328336&ring=64cc4f&fire=64cc4f&currStreakLabel=b2e05b&sideLabels=fbfbfd&currStreakNum=fbfbfd&dates=fbfbfd&sideNums=64cc4f" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THE-us&theme=react-dark&hide_border=true&bg_color=222222&color=64cc4f&point=b2e05b&line=328336&area=true&area_color=328336" alt="Contribution Graph"/>
-</div>
-
 ### 🎯 What I'm Up To
 
 - 🔭 Working on personal projects to expand my portfolio
